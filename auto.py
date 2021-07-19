@@ -3,6 +3,7 @@
 @Program: AIR_FCST_auto System 
 @Author: Shengqiang Zhu
 @Copyright by ACES@FDU
+@Email: 19110740012@fudan.edu.cn
 @Date: June 14, 2021
 '''
 
